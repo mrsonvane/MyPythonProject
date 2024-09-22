@@ -1,0 +1,9 @@
+list1=["Apple","B",5,10.7,"C","Madhu"]
+print(len(list1))
+print(list1)
+print(list1[1:6])
+print(list1[0])
+print(list1[5])
+print(list1[-1])
+print(list1[-5:-3])
+print(list1[-6:])
