@@ -1,0 +1,11 @@
+dict1={
+    "Name":"Madhu",
+    "Last_Name":"Dahiphle",
+    "Age":32
+}
+print(dict1)
+x=dict1.items()
+print(x)
+dict1["year"]=2024
+print(x)
+print(dict1)

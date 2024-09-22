@@ -1,0 +1,19 @@
+child1={
+        "Name":"Sam",
+        "Age":8
+    }
+child2={
+        "Name":"Sanku",
+        "Age":7
+    }
+child3={
+        "Name":"Vasu",
+        "Age":15
+    }
+myfamily={
+    'child1':child1,
+    'child2':child2,
+    'child3':child3
+}
+print(myfamily)
+print(myfamily["child2"]["Name"])
